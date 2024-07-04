@@ -2,7 +2,6 @@ import './style.css';
 import { Engine, Scene, ArcRotateCamera, SceneLoader, Vector3, HemisphericLight } from '@babylonjs/core';
 import '@babylonjs/loaders/glTF';
 import { MmdRuntime, VmdLoader } from 'babylon-mmd';
-import { VRMLoaderPlugin } from 'babylon-vrm-loader';
 
 const canvas = document.getElementById('renderCanvas');
 
