@@ -15,7 +15,6 @@
     "@babylonjs/core": "^7.13.1",
     "@babylonjs/loaders": "^7.13.1",
     "babylon-mmd": "^0.49.0",
-    "babylon-vrm-loader": "^2.0.0",
     "babylonjs": "^7.13.1"
   }
 }
